@@ -3,7 +3,7 @@
 ### Here's a little bit about myself
 
 - ⚡ **About Me**
-  - 🎯 I'm a Mid-Level Data Analyst with a degree in Software Engineering from PUC Minas, focused on building data solutions for automation, system integrations, and strategic decision-making.
+  - 🎯 I'm a Data Analyst and Freelancer with a degree in Software Engineering from PUC Minas, focused on building data solutions for automation, system integrations, and strategic decision-making.
   - 📦 I develop and maintain data pipelines that extract, transform, and integrate information across different systems, ensuring data quality, consistency, and availability for analytics and performance indicators.
 
 - 🌱 **Current Role**
